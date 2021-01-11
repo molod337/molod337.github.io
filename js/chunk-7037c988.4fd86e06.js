@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-7037c988"],{"09f0":function(a,n,e){},"47ef":function(a,n,e){"use strict";e("09f0")},a906:function(a,n,e){"use strict";e.r(n);var t=function(){var a=this,n=a.$createElement,e=a._self._c||n;return e("div",{staticClass:"bcg"},[e("NavBar"),e("ToolBar")],1)},c=[],o=e("d81f"),s=e("271a"),r={name:"Wallets",components:{ToolBar:s["a"],NavBar:o["a"]}},f=r,l=(e("47ef"),e("2877")),u=Object(l["a"])(f,t,c,!1,null,"409f1ced",null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-7037c988.4fd86e06.js.map
